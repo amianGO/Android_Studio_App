@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiApp</string>
+
+    <string name="tvTittle_login">Bienvenido a SoftApps</string>
+    <string name="txtEmail">Correo Electronico</string>
+    <string name="txtPassword">Contraseña</string>
+    <string name="btnLogin">Iniciar Sesion</string>
+    <string name="lblRegister">Crear Cuenta</string>
+    <string name="lblForgotPass">¿Olvido su Contraseña?</string>
+
+</resources>
